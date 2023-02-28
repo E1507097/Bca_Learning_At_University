@@ -2,8 +2,7 @@
 int main() 
 {
     //Write your code here
-    printf("solve this problem in modules...");
-
+    printf("JSB");
     return 0;
 }
 
