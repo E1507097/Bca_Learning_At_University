@@ -37,9 +37,6 @@ int main()
 
          if (max < a[i][j])
             {max = a[i][j];}
-
-
-
       }
       printf("the largest elements of row %d is %d\n", x, max);
    }
