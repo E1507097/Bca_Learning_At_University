@@ -30,7 +30,7 @@ int main()
   {
     int N = 2;
     String[, ] file
-      = { { "Shrikanth", "20", "30", "10" },
+      = {"paras", "20", "30", "10" },
          { "Ram", "100", "50", "10" } };
  
     Console.WriteLine(studentRecord(file, N));
