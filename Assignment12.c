@@ -4,6 +4,7 @@
   #define MAX_STUDENTS10
 
 int main() {
+  
     int marks[MAX_STUDENTS];
     int max_marks = 0;
     int max_index = 0;
