@@ -3,7 +3,7 @@
 //if all elements in the array are even it is known as "EVEN ARRAY"
 //if both even and odd available it is known as MIXED array
 
-
+#include<stdio.h>
 int findType(int n, int *) //complete this function
 {
   
