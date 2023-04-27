@@ -1,7 +1,8 @@
 //Write a C code to sort a string in alphabetical order
 //input: Anitha
 //output: Aahint 
-
+#include<stdio.h>
+#include<string.h>
 int main()
 {
    char str[100];
