@@ -6,6 +6,8 @@
 //.       n = 1
 
 
+#include<stdio.h>
+#include<string.h>
   #define MAX_SIZE 100
 
 int main()
